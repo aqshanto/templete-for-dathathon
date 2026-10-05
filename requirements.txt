@@ -1,0 +1,40 @@
+# Core
+numpy
+pandas
+scikit-learn>=1.4
+matplotlib
+seaborn
+scipy
+joblib
+
+# Tabular
+lightgbm
+xgboost
+catboost
+optuna
+shap
+imbalanced-learn
+missingno
+
+# Time series
+statsmodels
+holidays
+# prophet   (optional)
+
+# Image (GPU থাকলে: https://pytorch.org থেকে CUDA version install করো)
+torch
+torchvision
+timm
+pillow
+
+# NLP
+nltk
+wordcloud
+transformers
+sentence-transformers
+sentencepiece
+tiktoken
+
+# Notebook
+jupyter
+ipykernel
